@@ -1,0 +1,7 @@
+pandas
+json
+datetime
+PIL
+
+dotenv 
+os

@@ -1,0 +1,22 @@
+[
+  {
+    "Medikament": "Levodopa",
+    "Dosierung": "50 mg",
+    "Einnahmezeiten": "7:00, 11:00, 15:00, 19:00"
+  },
+  {
+    "Medikament": "Pramipexol",
+    "Dosierung": "0,7 mg",
+    "Einnahmezeiten": "23:00"
+  },
+  {
+    "Medikament": "Rasagilin",
+    "Dosierung": "1 mg",
+    "Einnahmezeiten": "7:00"
+  },
+  {
+    "Medikament": "Vitamin D Tropfen",
+    "Dosierung": "6 Tropfen",
+    "Einnahmezeiten": "7:00"
+  }
+]
