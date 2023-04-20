@@ -3,5 +3,3 @@ json
 datetime
 pillow
 
-dotenv 
-os
