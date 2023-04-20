@@ -5,18 +5,6 @@ import json
 import datetime
 from PIL import Image
 
-from dotenv import load_dotenv
-import os
-
-# Lade Umgebungsvariablen aus der .env-Datei
-load_dotenv()
-
-# Greife auf die Umgebungsvariable zu
-my_secret_key = os.getenv("MY_SECRET_KEY")
-my_other_secret = os.getenv("MY_OTHER_SECRET")
-
-
-
 
 # Pfad zu den JSON-Dateien mit den gespeicherten Daten
 DATA_FILE1 = "Krankheitsverlauf.json"
